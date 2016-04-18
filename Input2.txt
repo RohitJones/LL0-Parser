@@ -1,0 +1,7 @@
+S->BCb
+S->v
+S->Cd
+B->aB
+B->o
+C->cC
+C->x

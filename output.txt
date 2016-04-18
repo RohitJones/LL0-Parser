@@ -1,0 +1,9 @@
+S->CC
+C->cC
+C->d
+
+first(S) = {c, d}
+first(C) = {c, d}
+
+follow(S) = {$}
+follow(C) = {c, d, $}
